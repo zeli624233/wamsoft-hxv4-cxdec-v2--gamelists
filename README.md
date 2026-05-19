@@ -16,6 +16,8 @@
 |----------|----------|----------|------------|
 | 何度目かのはじめまして | 几度相逢若初见 | 2025年9月26日 | 90%+ |
 <pre>使用的工具：KrkrExtractForCxdecV3.3Extra_Plus</pre>
+### 同类型工具推荐：
+- [KrkrDump](https://github.com/crskycode/KrkrDump)
 ---
 ### 📖 Cxdec V2 (Hxv4) 加密技术:
 
@@ -75,6 +77,5 @@ Cxdec V2（业内更常称**Hxv4**）是Wamsoft在2020年底推出的新一代Ki
     - 任何修改过的文件都会触发校验失败，游戏直接黑屏或弹出"文件损坏"提示
     - 无法通过替换同名文件的方式修改游戏内容
 </pre>
-### 同类型工具推荐：
-- [KrkrDump](https://github.com/crskycode/KrkrDump)
+
 
