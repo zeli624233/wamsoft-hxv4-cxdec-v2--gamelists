@@ -16,8 +16,9 @@
 |----------|----------|----------|------------|
 | 何度目かのはじめまして | 几度相逢若初见 | 2025年9月26日 | 90%+ |
 <pre>使用的工具：KrkrExtractForCxdecV3.3Extra_Plus</pre>
-### 同类型工具推荐：
+### 工具推荐：
 - [KrkrDump](https://github.com/crskycode/KrkrDump)
+- [KrkrExtractForCxdecV3.3Extra_Plus](https://github.com/zeli624233/KrkrExtractForCxdecV3.3Extra_Plus)
 ---
 ### 📖 Cxdec V2 (Hxv4) 加密技术:
 
