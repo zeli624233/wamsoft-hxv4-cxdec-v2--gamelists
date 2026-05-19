@@ -7,8 +7,7 @@
 | オトメ世界の歩き方 | 少女世界的生存之道 | 2024年10月25日 | 90%+ |
 | ツヴァイトリガー | 双重扳机 | 2022年11月25日 | 90%+ |
  <pre>
-   使用的工具：KrkrExtractForCxdecV3.3Extra_Plus
- </pre>
+   使用的工具：KrkrExtractForCxdecV3.3Extra_Plus</pre>
 ---
 ### purple社
 
