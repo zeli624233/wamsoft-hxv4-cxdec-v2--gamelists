@@ -17,7 +17,7 @@
 | 何度目かのはじめまして | 几度相逢若初见 | 2025年9月26日 | 90%+ |
 <pre>使用的工具：KrkrExtractForCxdecV3.3Extra_Plus</pre>
 ---
-### 📖 Cxdec V2 (Hxv4) 加密技术详解
+### 📖 Cxdec V2 (Hxv4) 加密技术:
 
 Cxdec V2（业内更常称**Hxv4**）是Wamsoft在2020年底推出的新一代Kirikiri(krkrz)引擎加密方案，是对早期Cxdec V1的全面升级，核心采用**双重AES加密+全文件名哈希化**架构。
 
