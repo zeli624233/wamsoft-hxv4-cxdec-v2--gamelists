@@ -19,6 +19,8 @@
 ### 工具推荐：
 - [KrkrDump](https://github.com/crskycode/KrkrDump)
 - [KrkrExtractForCxdecV3.3Extra_Plus](https://github.com/zeli624233/KrkrExtractForCxdecV3.3Extra_Plus)
+- [KirikiriTools](https://github.com/arcusmaximus/KirikiriTools)
+- [FreeMote](https://github.com/UlyssesWu/FreeMote)
 ---
 ### 📖 Cxdec V2 (Hxv4) 加密技术:
 
